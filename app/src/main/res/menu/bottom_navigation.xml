@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_sign"
+        android:icon="@drawable/ic_sign"
+        android:title="@string/sign"/>
+
+    <item
+        android:id="@+id/action_schedule"
+        android:icon="@drawable/ic_schedule"
+        android:title="@string/schedule"/>
+
+    <item
+        android:id="@+id/action_signrecord"
+        android:icon="@drawable/ic_signrecord"
+        android:title="@string/signrecord"/>
+
+    <item
+        android:id="@+id/action_myprofile"
+        android:icon="@drawable/ic_myprofile"
+        android:title="@string/myprofile"/>
+</menu>

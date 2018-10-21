@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="myprofile">My Profile</string>
+    <string name="schedule">schedule</string>
+    <string name="sign">Sign</string>
+    <string name="signrecord">Sign Record</string>
+</resources>
